@@ -1,13 +1,13 @@
-# Hi there, I'm Putri Gazani Zahra 👋
+# [cite_start]Hi there, I'm Putri Gazani Zahra 👋 [cite: 1]
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&width=500&lines=Social+Media+Specialist;Agribusiness+Graduate;Smart+Farming+Enthusiast;Data+Entry+%26+Admin" alt="Typing SVG" />
 </p>
 
 ### 💫 About Me:
-[cite_start]I am a passionate and highly motivated Agribusiness graduate from Universitas Jember, currently based in Banyuwangi, East Java, Indonesia[cite: 2, 62]. [cite_start]Professionally, I manage the social media presence for Appnovasi Studio, where I specialize in creating engaging visual content, drafting compelling copywriting, and analyzing digital audience engagement[cite: 16, 17, 18]. 
+[cite_start]I am a passionate and highly motivated Agribusiness graduate from Universitas Jember, currently based in Banyuwangi, East Java, Indonesia[cite: 2, 5, 62]. [cite_start]Professionally, I manage the social media presence for Appnovasi Studio, where I specialize in creating engaging visual content, drafting compelling copywriting, and analyzing digital audience engagement[cite: 16, 17, 18]. 
 
-[cite_start]Beyond social media management, I have a strong background in data entry and field research, having worked with institutions like Badan Pusat Statistik and Indekstat[cite: 23, 39]. I am also proficient in managing collaborative workflows and task synchronization using Antigravity tied directly to GitHub. [cite_start]I am deeply interested in bridging the gap between sustainable agriculture and modern technology, which led me to dive into IoT-based Smart Farming and microcontroller programming[cite: 6, 7, 51, 56].
+[cite_start]Beyond social media management, I have a strong background in data entry and field research, having worked with institutions like Badan Pusat Statistik and Indekstat[cite: 6, 23, 39]. I am also proficient in managing collaborative workflows and task synchronization using Antigravity tied directly to GitHub. [cite_start]I am deeply interested in bridging the gap between sustainable agriculture and modern technology, which led me to dive into IoT-based Smart Farming and microcontroller programming[cite: 6, 7, 51, 56].
 
 ---
 
@@ -15,25 +15,28 @@
 
 #### 📱 Content Creation & Social Media
 <p align="left">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=CapCut&logoColor=white" alt="CapCut" />
+  [cite_start]<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva" /> 
+  [cite_start]<img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=CapCut&logoColor=white" alt="CapCut" /> 
 </p>
 
 #### 💻 Workflow & Tech
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,git,github" alt="Tech Tools" />
+    [cite_start]<img src="https://skillicons.dev/icons?i=arduino,git,github" alt="Tech Tools" /> 
   </a>
 </p>
 
-*Project Management:* Antigravity (GitHub-integrated workflow).
+#### ⚙️ Project Management
+<p align="left">
+  <img src="https://img.shields.io/badge/Antigravity-🚀_Workflow-blueviolet?style=flat" alt="Antigravity Workflow" />
+</p>
 
 ---
 
 ### 💼 Highlighted Experience:
-- [cite_start]📱 **Social Media Specialist** at Appnovasi Studio & Program Banyuwangi Hijau – Crafting visual contents, copywriting, and analyzing digital engagement[cite: 16, 18, 31, 36, 37].
+- [cite_start]📱 **Social Media Specialist** at Appnovasi Studio & Program Banyuwangi Hijau – Crafting visual contents, copywriting, and analyzing digital engagement[cite: 16, 18, 31, 34, 36, 37].
 - [cite_start]📊 **Data Entry & Specialist** at Badan Pusat Statistik & Workbench Apptek – Managing field survey data, input processing, and text transcriptions[cite: 39, 40, 43, 44].
-- [cite_start]⚙️ **Smart Farming Graduate** at BPVP Banyuwangi – Experienced in designing IoT-based microcontroller programming for irrigation systems[cite: 51, 56].
+- [cite_start]⚙️ **Smart Farming Graduate** at BPVP Banyuwangi – Experienced in designing IoT-based microcontroller programming for irrigation systems[cite: 51, 53, 56].
 
 ---
 
