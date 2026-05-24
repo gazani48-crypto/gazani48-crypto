@@ -46,3 +46,10 @@ Memiliki latar belakang pendidikan S1 Agribisnis dari Universitas Jember yang me
 ### 🎓 Pendidikan
 
 * **S1 Agribisnis** – Universitas Jember
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gazani48-crypto&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazani48-crypto&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
